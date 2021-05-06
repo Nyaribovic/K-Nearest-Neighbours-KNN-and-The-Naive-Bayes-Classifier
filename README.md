@@ -1,7 +1,7 @@
 # K-Nearest-Neighbours-KNN-and-The-Naive-Bayes-Classifier
 # Purpose of the Repository
 
-The aim of this project is to apply supervised learning algorithms; The KNN and naive Bayes Classifiers.
+The aim of this project is to apply supervised learning algorithms; KNN and naive Bayes Classifiers.
 
 The analysis will perform;
 
